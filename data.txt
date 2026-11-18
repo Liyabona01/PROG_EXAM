@@ -1,0 +1,45 @@
+DATA LOG
+********************************
+Customer Name: LIYA
+Product: Cozy Nights Monarch
+VAT: R 300.0
+COMMISSION: R 100.0
+TOTAL: R 2400.0
+********************************
+
+DATA LOG
+********************************
+Customer Name: LIYA
+Product: Cozy Nights Monarch
+VAT: R 300.0
+COMMISSION: R 100.0
+TOTAL: R 2400.0
+********************************
+
+DATA LOG
+********************************
+Customer Name: liya
+Product: Cozy Nights Monarch
+VAT: R 300.0
+COMMISSION: R 100.0
+TOTAL: R 2400.0
+********************************
+
+DATA LOG
+********************************
+Customer Name: LIY
+Product: Sealy Phuket
+VAT: R 525.0
+COMMISSION: R 175.0
+TOTAL: R 4200.0
+********************************
+
+DATA LOG
+********************************
+Customer Name: LIY
+Product: Sealy Phuket
+VAT: R 525.0
+COMMISSION: R 175.0
+TOTAL: R 4200.0
+********************************
+
